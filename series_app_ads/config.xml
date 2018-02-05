@@ -1,13 +1,13 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="com.realdealagency.engy" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.realdealagency.salah" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
-    <name>   سفرة دايمة مع انجي  </name>
+    <name>      محمد صلاح  </name>
     <description>
-  سفرة دايمه مع انجي
+    محمد صلاح 
     </description>
     <author email="ceo@realdealagency.com" href="http://www.realdealagency.com">
  
-  سفرة دايمه مع انجي
+    محمد صلاح 
    
     </author>
     <content src="index.html" />
